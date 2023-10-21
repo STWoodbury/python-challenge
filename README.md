@@ -22,7 +22,7 @@ The [main.py](https://github.com/STWoodbury/python-challenge/blob/main/PyBank/ma
 
 The results of the analysis are then written to the terminal and the file [analysis.txt](https://github.com/STWoodbury/python-challenge/blob/main/PyBank/analysis/analysis.txt)
 
-### 2. [PyPoll] (https://github.com/STWoodbury/python-challenge/tree/main/PyPoll)
+### 2. [PyPoll](https://github.com/STWoodbury/python-challenge/tree/main/PyPoll)
 
 The [main.py](https://github.com/STWoodbury/python-challenge/blob/main/PyPoll/main.py) script analyzes the [election_data.csv](https://github.com/STWoodbury/python-challenge/blob/main/PyPoll/Resources/election_data.csv) file, reading in the three-columns: 'Ballot Id', 'County' and 'Candidate' and calcuating the following:
 
