@@ -5,7 +5,7 @@ import os
 #read in csv file
 csv_file = os.path.join('Resources', 'budget_data.csv')
 
-#create datalist from csv_file
+#create list from csv_file
 with open(csv_file, 'r') as profit_loss:
     reader = csv.reader(profit_loss, delimiter = ",")
 
