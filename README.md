@@ -6,7 +6,7 @@ This repository contains two coding projects, exploring the use of the python cs
 
 The project is divided into the following two sub-projects:
 
-### 1. [PyBank - click for .py file](https://github.com/STWoodbury/python-challenge/tree/main/PyBank)
+### 1. [PyBank](https://github.com/STWoodbury/python-challenge/tree/main/PyBank)
 
 The [main.py](https://github.com/STWoodbury/python-challenge/blob/main/PyBank/main.py) script analyzes the [budget_data.csv](https://github.com/STWoodbury/python-challenge/blob/main/PyBank/Resources/budget_data.csv) file, reading in the two columns: 'Date' and 'Profit/Loss', and calculating the following:
 
